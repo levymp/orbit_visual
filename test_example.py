@@ -8,7 +8,7 @@ def function(x):
 def test_function():
     assert function(3) == 4
 
-def test_function_1():
+def test_function1():
     assert function(4) == 2
 
 

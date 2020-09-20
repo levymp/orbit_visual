@@ -1,2 +1,4 @@
 .vscode/settings.json
 nohup.out
+__pycache__/pytest.cpython-37.pyc
+__pycache__/test_example.cpython-37-pytest-6.0.2.pyc
